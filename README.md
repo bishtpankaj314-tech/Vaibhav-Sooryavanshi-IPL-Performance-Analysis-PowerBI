@@ -62,7 +62,7 @@ This project analyzes the IPL batting performance of **Vaibhav Sooryavanshi** us
 
 ### Overview Dashboard
 
-2025 vs2026.png
+![Overview Dashboard](images/overviw.png)
 
 ### IPL 2025 vs IPL 2026 Comparison
 
